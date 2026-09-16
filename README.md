@@ -12,7 +12,7 @@ MML Studio는 **음원을 MML 악보로 변환하고, 편곡과 미리듣기까�
 
 ## 다운로드 및 설치
 
-### [📥 통합 설치본 다운로드](https://github.com/gameicom/mmlStudio/releases/download/v0.10.3/MML_Studio_Setup_0.10.3_x64.exe)
+### [📥 통합 설치본 다운로드]([https://github.com/gameicom/mmlStudio/releases/download/v0.10.3/MML_Studio_Setup_0.10.3_x64.exe](https://github.com/gameicom/mmlStudio/releases))
 
 **위 설치 파일 하나만 받으면 됩니다.** 릴리스 페이지에 있는 다른 ZIP이나 JSON 파일은 따로 다운로드하지 않아도 됩니다.
 
